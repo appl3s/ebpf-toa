@@ -1,0 +1,6 @@
+libbpf/*
+linux/*
+ebpf-go/*.pcap
+bpf_*.o
+bpf_*.go
+root/
